@@ -1,6 +1,7 @@
 <img width="798" height="474" alt="image" src="https://github.com/user-attachments/assets/a40fa0e6-8b09-4eaa-93f8-20a4ccb4597c" />
 
-<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/6ea3cebe-bf12-48d4-9f43-5903d52570d9" />
+![Image 2025-08-24 at 18 00 10_0b747934](https://github.com/user-attachments/assets/ea178702-5741-4e73-901c-c8e2c846575c)
+
 
 # Portfolio Template
 
